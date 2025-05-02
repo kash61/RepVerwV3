@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+
+        <!-- HIER dein eigenes Icon angeben -->
+        <ApplicationIcon>icon.ico</ApplicationIcon>
+    </PropertyGroup>
+
+    <!-- Sorgt dafür, dass die icon.ico in den Build-Ordner kopiert wird -->
+    <ItemGroup>
+        <None Update="icon.ico">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,3 @@
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\bin\Release\net8.0\win-x64\publish\RepVerwV3.pdb
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\bin\Release\net8.0\win-x64\publish\icon.ico
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\bin\Release\net8.0\win-x64\publish\RepVerwV3.exe

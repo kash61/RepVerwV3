@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RepVerwV3/1.0.0": {
+        "runtime": {
+          "RepVerwV3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepVerwV3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

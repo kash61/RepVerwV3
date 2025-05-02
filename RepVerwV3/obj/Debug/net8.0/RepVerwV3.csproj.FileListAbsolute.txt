@@ -1,0 +1,15 @@
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\bin\Debug\net8.0\RepVerwV3.exe
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\bin\Debug\net8.0\RepVerwV3.deps.json
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\bin\Debug\net8.0\RepVerwV3.runtimeconfig.json
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\bin\Debug\net8.0\RepVerwV3.dll
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\bin\Debug\net8.0\RepVerwV3.pdb
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\obj\Debug\net8.0\RepVerwV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\obj\Debug\net8.0\RepVerwV3.AssemblyInfoInputs.cache
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\obj\Debug\net8.0\RepVerwV3.AssemblyInfo.cs
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\obj\Debug\net8.0\RepVerwV3.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\obj\Debug\net8.0\RepVerwV3.dll
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\obj\Debug\net8.0\refint\RepVerwV3.dll
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\obj\Debug\net8.0\RepVerwV3.pdb
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\obj\Debug\net8.0\RepVerwV3.genruntimeconfig.cache
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\obj\Debug\net8.0\ref\RepVerwV3.dll
+C:\Users\Jordan\RiderProjects\RepVerwV3\RepVerwV3\bin\Debug\net8.0\icon.ico
